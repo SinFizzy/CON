@@ -1,0 +1,131 @@
+{
+  "formatVersion": 1,
+  "minLauncherVersion": null,
+  "generatedAt": "2026-11-25T23:09:27.7673147+00:00",
+  "server": {
+    "id": "con-server",
+    "name": "CON",
+    "game": "valheim"
+  },
+  "game": null,
+  "loader": {
+    "id": "denikson-BepInExPack_Valheim",
+    "name": "BepInExPack Valheim",
+    "version": "5.4.2360",
+    "source": "thunderstore",
+    "url": "https://thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.2360/",
+    "sha256": "6bca77b1016acfe0ffaebb6534c84b12ae8d12e5a96abbf59ec6e4526204fc6f",
+    "sizeBytes": 726409,
+    "updated": "2026-10-28",
+    "added": null,
+    "side": "both",
+    "required": true
+  },
+  "mods": [
+    {
+      "id": "Yggdrah-BeastMarketOutpost",
+      "name": "BeastMarketOutpost",
+      "version": "1.0.3",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Yggdrah/BeastMarketOutpost/1.0.3/",
+      "sha256": "016278261574361062ce8926a06965cddf37c85dc1cfb834bb36fedb2fb0857a",
+      "sizeBytes": 106765941,
+      "updated": "2026-11-25",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "ValheimModding-Jotunn",
+      "name": "Jotunn",
+      "version": "2.30.2",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/ValheimModding/Jotunn/2.30.2/",
+      "sha256": "8aae92da2be0eb6820cd4cf57e2f6c1d6ad0d738d4915966e7c3d7a94e9a9b0f",
+      "sizeBytes": 835193,
+      "updated": "2026-09-21",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "Krool-Krool_World_UI",
+      "name": "Krool World UI",
+      "version": "0.18.1",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Krool/Krool_World_UI/0.18.1/",
+      "sha256": "3419bb6c8718a38499e304c1457c6decd44874d8acdc3ac4be003637c9cdd146",
+      "sizeBytes": 617098,
+      "updated": "2026-11-19",
+      "added": "2026-11-25",
+      "side": "client",
+      "required": false
+    },
+    {
+      "id": "Dreanegade-Magic_Supremacy",
+      "name": "Magic Supremacy",
+      "version": "3.1.7",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Dreanegade/Magic_Supremacy/3.1.7/",
+      "sha256": "01a10e68cc7e021cad2da9e64e135b9faa33118757eac983d532f80699e46c28",
+      "sizeBytes": 91339994,
+      "updated": "2026-11-25",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "Yggdrah-MountCollection",
+      "name": "MountCollection",
+      "version": "1.0.2",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Yggdrah/MountCollection/1.0.2/",
+      "sha256": "6b4637000a72d97ea2f92c7dd149a821d0b8e668398a9e8b29d02250d8a11b53",
+      "sizeBytes": 98420301,
+      "updated": "2026-10-16",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "Yggdrah-MountRidingSystem",
+      "name": "MountRidingSystem",
+      "version": "1.0.4",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Yggdrah/MountRidingSystem/1.0.4/",
+      "sha256": "a6a111ee55d5a3633b735d8f6437d3b07460a237f1e15df9c5150c799971a4f2",
+      "sizeBytes": 22651899,
+      "updated": "2026-10-16",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "Vapok-ShieldMeBruh",
+      "name": "ShieldMeBruh",
+      "version": "2.1.7",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Vapok/ShieldMeBruh/2.1.7/",
+      "sha256": "8166b8b982ae6509866a9854d1ad1bd2b109a558cf35a72ed8e041593b884b56",
+      "sizeBytes": 461959,
+      "updated": "2026-11-25",
+      "added": "2026-11-25",
+      "side": "client",
+      "required": false
+    },
+    {
+      "id": "ValheimModding-YamlDotNet",
+      "name": "YamlDotNet",
+      "version": "16.3.1",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/ValheimModding/YamlDotNet/16.3.1/",
+      "sha256": "2280480d2add7d6a7a17b882f9b755145160c852e89a14794d1493d08495d2ac",
+      "sizeBytes": 130222,
+      "updated": "2025-06-15",
+      "added": "2026-11-25",
+      "side": "both",
+      "required": true
+    }
+  ],
+  "signature": null
+}
